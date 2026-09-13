@@ -1,0 +1,3 @@
+# WADI-X is built using the Python Standard Library for maximum portability.
+# Optional testing & development dependencies:
+pytest>=7.0.0

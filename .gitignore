@@ -5,8 +5,12 @@ __pycache__/
 
 # Scan results and logs
 wadix_scan_*/
-*.txt
 *.log
+*.tmp
+
+# Exclude random txt but allow project wordlists and requirements
+!requirements.txt
+!wordlists/**
 
 # Environments
 .env
