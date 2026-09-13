@@ -60,7 +60,7 @@ sudo apt update && sudo apt install -y git python3
 ### 2. Clone the Repository
 Download the project source code to your machine:
 ```bash
-git clone https://github.com/EhabAlnajjar95/WADI-X-Scanner.git
+git clone https://github.com/WADI-X-Team/WADI-X-Scanner.git
 ```
 
 ---
